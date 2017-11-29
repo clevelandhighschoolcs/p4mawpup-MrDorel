@@ -1,3 +1,12 @@
+1) Install Python 2.7.14
+2) Install the newest version of notepad++
+3) Create a virtual environment in a folder on your desktop.
+4) Create a .py file and open it with notepad++
+5) Copy the code provided for the webscraper.
+6) Open cmd, activate your virtual environment and run the webscraper (.py) file.
+
+
+
 This web scraper monitors the price of apple stock through python and the nasdaq website. 
 It notifies the user if there is a change in price, and displays the original and new price of apple stock.
 
