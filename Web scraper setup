@@ -68,8 +68,6 @@ main()
 7)Open up cmd by clicking on the windows button in the bottom left corned of your screen. Type in cmd, right click on the cmd application that pops up anc click run as administrator.
 The cmd app should pop up on your desktop and start running.
 
-[[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
-
 8)In cmd, type "cd desktop" then press enter, then type in "cd /pytoexe/.lpvenv/scripts" and press enter. Then type in "activate" and press enter. There should now be 
 a "(.lpvenv)" before the text cmd now shows you. This means that cmd is running your virtual envirenment succesfully.
 
