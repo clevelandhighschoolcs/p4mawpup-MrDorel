@@ -65,7 +65,7 @@ main()
 7)Open up cmd by pressing the "windows button" and "r" together. a pop up will appear near the bottom left corner of your screen. 
 Type in cmd into the "open" tab. Press enter. Cmd should pop up on your screen.
 
-8)In cmd, type "cd desktop/pytoexe/.lpvenv/scripts" and press enter. Then type in "activate" and press enter. There should now be 
+8)In cmd, type "cd desktop" then press enter, then type in "cd /pytoexe/.lpvenv/scripts" and press enter. Then type in "activate" and press enter. There should now be 
 a "(.lpvenv)" before the text cmd now shows you. This means that cmd is running your virtual envirenment succesfully.
 
 9) Type in "python web" and press enter. Cmd should start running your web scraper program. To end the process, press "ctrl" and "c".
