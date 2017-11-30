@@ -7,8 +7,7 @@
   5)Copy and paste the code below into your file, opened in notepad++:
     --MAKE SURE IT IS INDENTED EXACTLY AS IT IS HERE OR IT WILL NOT WORK--
     
-    
-    import time
+import time
 import urllib
 import re
 
@@ -39,7 +38,7 @@ def main ():
 		print newPrice
 		
 		if newPrice != oldPrice:
-			print "Price changed!"
+			print "---------------------Price changed!---------------------"
 			print "The new Apple stock price is:"
 			oldPrice = newPrice
 		
@@ -59,6 +58,10 @@ def main ():
 	
 
 main()
+
+
+
+
 
 6) Exit and save the file, then rename the last bit called ".txt" to ".py" to convert the file type to python.
 
