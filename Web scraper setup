@@ -65,8 +65,8 @@ main()
 
 6) Exit and save the file, then rename the last bit called ".txt" to ".py" to convert the file type to python.
 
-7)Open up cmd by pressing the "windows button" and "r" together. a pop up will appear near the bottom left corner of your screen. 
-Type in cmd into the "open" tab. Press enter. Cmd should pop up on your screen.
+7)Open up cmd by clicking on the windows button in the bottom left corned of your screen. Type in cmd, right click on the cmd application that pops up anc click run as administrator.
+The cmd app should pop up on your desktop and start running.
 
 8)In cmd, type "cd desktop" then press enter, then type in "cd /pytoexe/.lpvenv/scripts" and press enter. Then type in "activate" and press enter. There should now be 
 a "(.lpvenv)" before the text cmd now shows you. This means that cmd is running your virtual envirenment succesfully.
