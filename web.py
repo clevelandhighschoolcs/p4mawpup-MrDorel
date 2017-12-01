@@ -11,7 +11,7 @@ def main ():
 
 	while timeT < sec:
 	
-		print "Checking the current price of apple stock. This may take a few a few seconds..."
+		print "Checking the current price of apple stock. This may take a few a few minutes..."
 		time.sleep(5)
 		htmlfile = urllib.urlopen("http://www.nasdaq.com/symbol/aapl/real-time")
 		htmltext = htmlfile.read()
