@@ -4,8 +4,8 @@ import re
 import requests
 from twilio.rest import Client
 
-account_sid = 'AC767817a5c1ed3e223e922a4927f402f4'
-auth_token = '4c36bb4c4ea20b9ee027df992ed49de5'
+account_sid = 'XXX'
+auth_token = 'XXX'
 twilio_phone_number = '+19718034163'
 my_phone_number = '+15035454979'
 
