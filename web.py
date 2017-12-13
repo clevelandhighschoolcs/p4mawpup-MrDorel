@@ -39,11 +39,11 @@ def main ():
 			
 		print newPrice
 		
-		if timeT < sec:
-			print "Restarting...This may take a few seconds..."
-		
 		if timeT == sec:
 			print "Ending process..."
+			break
+		else:
+			print "Restarting...This may take a few seconds..."
 		
 		
 	
