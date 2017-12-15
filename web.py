@@ -30,15 +30,13 @@ def main ():
 		
 		if newPrice != oldPrice:
 			print "---------------------Price changed!---------------------"
-			print "The new Apple stock price is:"
+			print "The new Apple stock price is: "+newPrice
 			oldPrice = newPrice
 		
 		else:
-			print "The new Apple stock price is:"
+			print "The Apple stock price is still: "+newPrice
 			timeT +=1
 			
-		print newPrice
-		
 		if timeT == sec:
 			print "Ending process..."
 			break
