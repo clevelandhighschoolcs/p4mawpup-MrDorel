@@ -6,8 +6,8 @@ from twilio.rest import Client
 
 account_sid = 'XXX'
 auth_token = 'XXX'
-twilio_phone_number = '+19718034163'
-my_phone_number = '+15035454979'
+twilio_phone_number = '+ZZZ'
+my_phone_number = '+ZZZ'
 
 def main ():
 	
